@@ -1,5 +1,8 @@
 function Home(){
-    return <h1>Essa é um página é o começo de um projeto maior, que tem uma pretenção pequena mas que pode galgar algo muito grande! Será que vai dar certo?</h1>
+    return <h1>Acredito que seja a terceira vez que tenho que alterar o texto por error besta no português.
+        Como o projeto é meu e já estou totó das ideias, estou usando esse espaço para desabafar e falar algo muito importante:
+        ÁLVARO, VOCÊ É BOBO E A LOREN É LINDA!
+        Obs: eu não sei como fazer quebra de linha, então para você está tudo em sequência...</h1>
 }
 
 export default Home;
